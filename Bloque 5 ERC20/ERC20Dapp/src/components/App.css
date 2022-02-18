@@ -1,0 +1,17 @@
+/* Los estilos estaran en esta hoja */
+
+.color {
+    background-color: wheat;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding-top: 12px;
+    margin-top: 5px;
+    border-radius: 10px;
+    
+}
+
+.color:hover {
+    background-color:gray;
+    color: white;
+}
